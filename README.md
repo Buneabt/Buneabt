@@ -34,6 +34,6 @@ ORCID: [0009-0006-2942-0588](https://orcid.org/0009-0006-2942-0588)
 
 ### My Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=Buneabt&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Buneabt&layout=compact&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Buneabt&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Buneabt&layout=compact&theme=radical&hide_border=true&theme=transparent)
 
