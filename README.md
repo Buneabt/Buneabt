@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Bogdan!
 
-<!--
-**Buneabt/Buneabt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm a **Systems Engineering** student currently studying at The George Washington University with a minor in Computer Science. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working on
+
+* **surveydown**: Open-source R Shiny application for creating reproducable surveys
+* **GWU-Sat**: Embedded software designed for GWU's cube satellite initiative using C and the Salvo Real Time Operating System
+* **GWU-Rocket**: Current Co-Lead for designing and integrating this years payload
+
+
+### 🎯 Research & Publications
+ORCID: 0009-0006-2942-0588
+Working with:
+
+* Professor John Helveston (Engineering Management & Systems Engineering)
+* Professor Michael Keidar (Mechanical and Aerospace Engineering)
+* Lawrence Berkeley National Laboratory (Vehicle specifications data analysis)
+
+
