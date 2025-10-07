@@ -4,20 +4,20 @@
 
 I'm a **Systems Engineering** student currently studying at The George Washington University with a minor in Computer Science. 
 
-### 🔭 What I'm Working on
+### What I'm Working on
 
 * **surveydown**: Open-source R Shiny application for creating reproducable surveys
 * **GWU-Sat**: Embedded software designed for GWU's cube satellite initiative using C and the Salvo Real Time Operating System
 * **GWU-Rocket**: Current Co-Lead for designing and integrating this years payload
 
-### 🛠️Technical Skills:  
+### Technical Skills:  
 **Programming Languages:** R, Java, C/C++, Python, SQL  
 **Databases & Tools:** PostgreSQL, R Shiny, Visual Studio, Arduino, Git, SAS  
 **Systems & Methodologies:** RTOS (Salvo), Embedded Systems, AGILE, Systems Engineering V-Model  
 **Analysis & Statistics:** Statistical Process Control, ANOVA, Bayesian Analysis, Monte Carlo Methods  
 **Core Computer Science:** Algorithms, Data Structures, Database Normalization, Software Engineering  
 
-### 🎯 Research, Publications, & Awards
+### Research, Publications, & Awards
 ORCID: [0009-0006-2942-0588](https://orcid.org/0009-0006-2942-0588)
 
 **Papers:**   
