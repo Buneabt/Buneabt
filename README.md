@@ -31,8 +31,3 @@ ORCID: [0009-0006-2942-0588](https://orcid.org/0009-0006-2942-0588)
 * Professor John Helveston (Engineering Management & Systems Engineering)
 * Professor Michael Keidar (Mechanical and Aerospace Engineering)
 * Professor Tom Wenzel (Lawrence Berkeley National Laboratory) 
-
-### My Stats  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Buneabt&layout=compact&theme=radical&hide_border=true)
-
