@@ -11,7 +11,7 @@ I'm a **Systems Engineering** student currently studying at The George Washingto
 * **GWU-Rocket**: Design and Consultation of in-house telemetry system
 
 ### Technical Skills:  
-**Programming Languages:** R, Java, C/C++, Python, SQL  
+**Programming Languages:** R, Java, C, Python, SQL  
 **Databases & Tools:** PostgreSQL, R Shiny, Visual Studio, Arduino, Git, SAS  
 **Systems & Methodologies:** RTOS (Salvo), Embedded Systems, AGILE, Systems Engineering V-Model  
 **Analysis & Statistics:** Statistical Process Control, ANOVA, Bayesian Analysis, Monte Carlo Methods  
