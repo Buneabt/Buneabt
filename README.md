@@ -8,7 +8,7 @@ I'm a **Systems Engineering** student currently studying at The George Washingto
 
 * **surveydown**: Open-source R Shiny application for creating reproducable surveys
 * **GWU-Sat**: Embedded software designed for GWU's cube satellite initiative using C and the Salvo Real Time Operating System
-* **GWU-Rocket**: Current Co-Lead for designing and integrating this years payload
+* **GWU-Rocket**: Design and Consultation of in-house telemetry system
 
 ### Technical Skills:  
 **Programming Languages:** R, Java, C/C++, Python, SQL  
