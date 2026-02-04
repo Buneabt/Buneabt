@@ -6,9 +6,11 @@ I'm a **Systems Engineering** student currently studying at The George Washingto
 
 ### What I'm Working on
 
+* **Team Detect**: Class projected aimed at creating an object detection system using MBSE principles in Capella and projected onto a raspberry pi
 * **surveydown**: Open-source R Shiny application for creating reproducable surveys
 * **GWU-Sat**: Embedded software designed for GWU's cube satellite initiative using C and the Salvo Real Time Operating System
 * **GWU-Rocket**: Design and Consultation of in-house telemetry system
+
 
 ### Technical Skills:  
 **Programming Languages:** R, Java, C, Python, SQL                                                                               <br>
