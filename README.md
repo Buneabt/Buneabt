@@ -13,7 +13,8 @@ I'm a **Systems Engineering** student currently studying at The George Washingto
 
 
 ### Technical Skills:  
-**Programming Languages:** R, Java, C, Python, SQL                                                                               <br>
+**Programming Languages:** C, MATLAB, R, Java, Python, SQL                                                                               <br>
+**Space, Mission Systems, & Tools :** Communication Systems, Link budgets, Mission Documentation, Amateur Radio License, Spectrum Analyzer <br>
 **Databases & Tools:** PostgreSQL, R Shiny, Visual Studio, Arduino, Git, SAS, SIMIO, @Risk                                       <br>
 **Systems & Methodologies:** RTOS (Salvo), Embedded Systems, AGILE, Waterfall, Systems Engineering V-Model                       <br>
 **Analysis & Statistics:** Statistical Process Control, ANOVA, Bayesian Analysis, Monte Carlo Methods, Machine Learning          <br>
